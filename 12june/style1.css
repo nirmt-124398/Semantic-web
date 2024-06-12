@@ -12,22 +12,88 @@
 }
 
 .container .con1{
-    width: 400px;
+    width: 300px;
     height: 200px;
     background-color: rgba(0, 0, 0, 0.071);
     float: left;
 }
 
 .container .con2{
-    width: 400px;
+    width: 300px;
     height: 200px;
     background-color: rgb(25, 131, 61);
     float: left;
 }
 
 .container .con3{
-    width: 400px;
+    width: 300px;
     height: 200px;
     background-color: rgb(72, 23, 195);
+    float: left;
+}
+.container .con4{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(16, 105, 137);
+    float: left;
+}
+.container .con5{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(34, 22, 104);
+    float: left;
+}
+.container .con6{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(73, 10, 59);
+    float: left;
+}
+.container .con7{
+    width: 600px;
+    height: 200px;
+    background-color: rgb(147, 169, 20);
+    float: left;
+}
+.container .con8{
+    width: 600px;
+    height: 200px;
+    background-color: rgb(179, 74, 151);
+    float: left;
+}
+.container .con9{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(176, 16, 32);
+    float: left;
+}
+.container .con10{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(0, 255, 255);
+    float: left;
+}
+.container .con11{
+    width: 300px;
+    height: 200px;
+    background-color: rgba(28, 10, 87, 0.758);
+    float: left;
+}
+.container .con12{
+    width: 600px;
+    height: 200px;
+    background-color: rgb(128, 15, 165);
+    float: left;
+}
+.container .con13{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(77, 18, 116);
+    float: left;
+}
+.container .con14{
+    width: 1200px;
+    height: 200px;
+    background-color: rgb(17, 106, 90);
     float: left;
 }
