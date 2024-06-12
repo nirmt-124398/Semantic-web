@@ -1,0 +1,33 @@
+.container{
+    width: 1200px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.container .header{
+    background-color: thistle;
+    color: brown;
+    height: 200px;
+    width: 1200px;
+}
+
+.container .con1{
+    width: 400px;
+    height: 200px;
+    background-color: rgba(0, 0, 0, 0.071);
+    float: left;
+}
+
+.container .con2{
+    width: 400px;
+    height: 200px;
+    background-color: rgb(25, 131, 61);
+    float: left;
+}
+
+.container .con3{
+    width: 400px;
+    height: 200px;
+    background-color: rgb(72, 23, 195);
+    float: left;
+}
