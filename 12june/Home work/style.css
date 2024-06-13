@@ -6,7 +6,7 @@ h1 {
 
 section {
     outline: 5px;
-    outline-style: dashed;
+    outline-style: groove;
     outline-color: black;
     outline-offset: 3px;
 }
@@ -18,18 +18,20 @@ p {
 
 
 nav {
-    background-color:#033B3D;
+    /* background-color:#033B3D; */
+    background-image: url(kiwi-fruit-design-overhead-background-wholesome-food_872147-1441.avif);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 300px;
+    height: 600px;
     background-position: center;
 }
 
 footer {
-    background-color:#033B3D;
+    /* background-color:#033B3D; */
+    background-image: url(kiwi-fruit-wooden-table_608068-17404.avif);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 300px;
+    height: 350px;
     background-position: center;
 }
 
@@ -70,27 +72,64 @@ a {
     text-decoration: none;
     padding: 25px;
     color: aqua;
+    font-size: xx-large;
 }
 
 .Icon {
     color: aqua;
-    padding-right: 800px;
-    font-size: xx-large;
+    padding-right: 550px;
+    font-size: 50px;
     font-weight: bolder;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-family: Silkscreen;
 }
 
+form {
+    position: relative;
+    left: 525px;
+}
+
 .form {
+    margin: 30px auto;
     color: black;
     border: 3px solid black;
     border-radius: 4px;
     padding: 13px;
+
 }
+
 
 nav button {
     margin-top: 100px;
     margin-left: 100px;
     padding: 20px;
-    
+
+}
+
+.dive {
+    text-align: center;
+}
+
+#ide {
+    width: 194px;
+    background-color: #C19A6B;
+}
+
+.footer {
+    text-align: left;
+    width: 500px;
+    display: inline-flex;
+}
+
+.footer2 {
+    text-align: right;
+    margin-right: 30px;
+}
+
+#number {
+    font-size: xx-large;
+    display: inline;
+    position: relative;
+    right: -337px;
+    color: aqua;
 }
