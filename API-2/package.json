@@ -1,9 +1,10 @@
 {
-  "name": "api",
+  "name": "api-2",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "Node app.js",
+    "dev": "Node app.js"
   },
   "author": "",
   "license": "ISC",
